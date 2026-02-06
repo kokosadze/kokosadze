@@ -35,6 +35,7 @@ src="https://img.shields.io/github/followers/kokosadze?logo=github&style=for-the
 
 
 
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kokosadze&theme=dark)
 
 
 
