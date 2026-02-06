@@ -27,5 +27,6 @@ English — Basic
 src="https://img.shields.io/github/followers/kokosadze?logo=github&style=for-the-badge&color=ffffff&labelColor=713f12" /></a>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kokosadze)](https://github.com/ryo-ma/github-profile-trophy)
 
 
