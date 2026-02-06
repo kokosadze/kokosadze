@@ -27,4 +27,4 @@ English — Basic
 src="https://img.shields.io/github/followers/kokosadze?logo=github&style=for-the-badge&color=ffffff&labelColor=713f12" /></a>
 ### Badges
 
-<a href="https://github.com/kokosadze" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokosadze&langs_count=10&title_color=ffffff&text_color=facc15&icon_color=ffffff&bg_color=713f12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
