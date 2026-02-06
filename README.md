@@ -26,6 +26,6 @@ English — Basic
 <a href="https://www.github.com/kokosadze" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kokosadze?logo=github&style=for-the-badge&color=ffffff&labelColor=713f12" /></a>
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?kokosadze={username}&theme={github_dark}&exclude={exclude}
+
 
 
