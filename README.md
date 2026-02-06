@@ -27,8 +27,16 @@ English — Basic
 src="https://img.shields.io/github/followers/kokosadze?logo=github&style=for-the-badge&color=ffffff&labelColor=713f12" /></a>
 
 
-### 🧠 Языки, которые я использую
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kokosadze&theme=radical)
+
+
+
+
+
+
+
+
+
+
 
 
 
